@@ -62,7 +62,7 @@ If the user gives:
 ```
 python trusses.py graph_1.txt 3
 ```
-with the file [gnp_random_graph_1.txt](gnp_random_graph_1.txt), which actually corresponds to the graph of the first two figures with the 3-trusses above, the output will be the one we gave just above:
+with the file [gnp_random_graph_1.txt](assignment-2016-1-master/gnp_random_graph_1.txt), which actually corresponds to the graph of the first two figures with the 3-trusses above, the output will be the one we gave just above:
 ```
 (0, 1, 9)
 (8, 10, 16)
@@ -71,7 +71,7 @@ If the user gives:
 ```
 python trusses.py graph_2.txt 4
 ```
-with the file [gnp_random_graph_2.txt](gnp_random_graph_2.txt), the output will be:
+with the file [gnp_random_graph_2.txt](assignment-2016-1-master/gnp_random_graph_2.txt), the output will be:
 ```
 (3, 8, 9, 18)
 (7, 11, 15, 21)
@@ -80,7 +80,7 @@ If the user gives:
 ```
 python trusses.py graph_3.txt 5
 ```
-with the file [powerlaw_cluster_graph.txt](powerlaw_cluster_graph.txt), the output will be:
+with the file [powerlaw_cluster_graph.txt](assignment-2016-1-master/powerlaw_cluster_graph.txt), the output will be:
 ```
 (2, 5, 8, 9, 13, 14)
 (2, 5, 8, 13, 14)
@@ -90,7 +90,7 @@ If the user gives:
 ```
 python trusses.py barabasi_albert_graph.txt 3
 ```
-with the file [barabasi_albert_graph.txt](barabasi_albert_graph.txt), the output will be:
+with the file [barabasi_albert_graph.txt](assignment-2016-1-master/barabasi_albert_graph.txt), the output will be:
 ```
 (0, 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13)
 (0, 1, 3, 4, 5, 6, 9, 10)
